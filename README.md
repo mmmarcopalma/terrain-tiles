@@ -5,7 +5,7 @@ Use Colab notebook *Terrain_Tiles.ipynb* for exporting elevation and color data.
 
 Use Grasshopper file *TerrainTiles.gh* to import elevation and color data to build a colored mesh model in the McNeel Rhinoceros environment.
 
-A gDrive account and authorization are needed.
+gDrive account needed.
 
 ![alt text](https://github.com/mmmarcopalma/terrain-tiles/blob/main/RH20210103212549.jpg)
 

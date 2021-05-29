@@ -18,10 +18,15 @@ gDrive account needed.
 --- 
 
 About Terrain Tiles
+
 https://registry.opendata.aws/terrain-tiles/
+
 https://github.com/tilezen/joerd/tree/master/docs
+
 https://github.com/tilezen/joerd/blob/master/docs/data-sources.md
 
 Explore and Search Tiles
+
 https://eos.com/landviewer/ - change search settings to Terrain Tiles
+
 https://elevation-tiles-prod.s3.amazonaws.com/index.html#4/14.82/-403.59

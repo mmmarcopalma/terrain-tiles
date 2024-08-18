@@ -1,7 +1,7 @@
 # terrain-tiles
 Access Terrain Tiles from Amazon Web Server (AWS) /  Export elevation and color data to .csv / Import to Rhino-Grasshopper.
 
-Use Colab notebook *Terrain_Tiles.ipynb* for exporting elevation and color data. A single tile requires **lagitude, longitude and zoom level** as input parameters. Data is exported in .csv format and saved to a specified gDrive location. *TILE_X1147_Y777_Z11_COLOR.csv* and *TILE_X1147_Y777_Z11_ELEVATION.csv* example files are provided. 
+Use Colab notebook *Terrain_Tiles.ipynb* for exporting elevation and color data. A single tile requires **latitude, longitude and zoom level** as input parameters. Data is exported in .csv format and saved to a specified gDrive location. *TILE_X1147_Y777_Z11_COLOR.csv* and *TILE_X1147_Y777_Z11_ELEVATION.csv* example files are provided. 
 
 Use Grasshopper file *TerrainTiles.gh* to import elevation and color data to build a colored mesh model in the McNeel Rhinoceros environment.
 
